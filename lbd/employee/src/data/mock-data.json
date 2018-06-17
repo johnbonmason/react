@@ -1,0 +1,9 @@
+{
+    "employees": [
+        { "id": "1", "name": "John", "position": "Owner", "department": "manager" },
+        { "id": "2", "name": "Mark", "position": "CEO", "department": " manager" },
+        { "id": "3", "name": "Anna", "position": "GM", "department": " manager" },
+        { "id": "4", "name": "Bon", "position": "CFO", "department": " manager" },
+        { "id": "5", "name": "Bill", "position": "HRM", "department": " manager" }
+    ]
+}
