@@ -4,3 +4,9 @@
 .app-container {
     margin: 20px auto;
 }
+label {
+    padding: 5px;
+}
+button {
+    margin: 5px;
+}

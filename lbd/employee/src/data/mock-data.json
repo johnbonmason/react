@@ -1,9 +1,16 @@
 {
     "employees": [
-        { "id": "1", "name": "John", "position": "Owner", "department": "manager" },
-        { "id": "2", "name": "Mark", "position": "CEO", "department": " manager" },
-        { "id": "3", "name": "Anna", "position": "GM", "department": " manager" },
-        { "id": "4", "name": "Bon", "position": "CFO", "department": " manager" },
-        { "id": "5", "name": "Bill", "position": "HRM", "department": " manager" }
+        { "id": "1", "name": "John", "position": "Owner", "department": "Administrator" },
+        { "id": "2", "name": "Mark", "position": "CEO", "department": " Administrator" },
+        { "id": "3", "name": "Anna", "position": "GM", "department": " Administrator" },
+        { "id": "4", "name": "Bon", "position": "CFO", "department": " Administrator" },
+        { "id": "5", "name": "Bill", "position": "HRM", "department": " Administrator" }
+    ],
+    "departments": [
+        { "id": "1", "name": "Administrator"},
+        { "id": "2", "name": "Human Resource"},
+        { "id": "3", "name": "Accountant"},
+        { "id": "4", "name": "Developer"},
+        { "id": "5", "name": "Buyer"}
     ]
 }

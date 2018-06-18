@@ -14,7 +14,8 @@ class EmployeeDetails extends Component {
     if (this.props.selectedEmployeeProps.length <= 0) {
       return (
         <div className="card">
-            ...
+          <h3>Employee Details</h3>
+          <div>...</div>
         </div>
       )
     }
